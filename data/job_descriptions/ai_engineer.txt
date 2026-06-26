@@ -1,0 +1,11 @@
+Python
+Machine Learning
+Deep Learning
+Docker
+Kubernetes
+AWS
+MLOps
+LangChain
+RAG
+Vector Databases
+FastAPI
